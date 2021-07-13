@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29424.173
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectAlgo", "ConsoleApp1\ProjectAlgo.csproj", "{7B61DEFE-E305-4A47-8EEB-1A8C65CA6D7B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlgoUTest", "AlgoUTest\AlgoUTest.csproj", "{58B3AB07-C42A-4C98-A5F9-285E4376EBEB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7B61DEFE-E305-4A47-8EEB-1A8C65CA6D7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B61DEFE-E305-4A47-8EEB-1A8C65CA6D7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B61DEFE-E305-4A47-8EEB-1A8C65CA6D7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B61DEFE-E305-4A47-8EEB-1A8C65CA6D7B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58B3AB07-C42A-4C98-A5F9-285E4376EBEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58B3AB07-C42A-4C98-A5F9-285E4376EBEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58B3AB07-C42A-4C98-A5F9-285E4376EBEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58B3AB07-C42A-4C98-A5F9-285E4376EBEB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5C2611A8-B362-4753-9E25-84311EE5DD89}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,7 @@
+C:\learn\Algo\ConsoleApp1\obj\Debug\ProjectAlgo.csproj.CoreCompileInputs.cache
+C:\learn\Algo\ConsoleApp1\bin\Debug\ProjectAlgo.exe.config
+C:\learn\Algo\ConsoleApp1\bin\Debug\ProjectAlgo.exe
+C:\learn\Algo\ConsoleApp1\bin\Debug\ProjectAlgo.pdb
+C:\learn\Algo\ConsoleApp1\obj\Debug\ProjectAlgo.exe
+C:\learn\Algo\ConsoleApp1\obj\Debug\ProjectAlgo.pdb
+C:\learn\Algo\ConsoleApp1\obj\Debug\ProjectAlgo.csproj.AssemblyReference.cache
